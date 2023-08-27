@@ -191,7 +191,6 @@ export default [
 	"https://ipfs.smartsignature.io/ipfs/:hash",
 	"https://ipfs.stibarc.com/ipfs/:hash",
 	"https://jorropo.ovh/ipfs/:hash",
-	"https://robotizing.net/ipfs/:hash",
 	"https://trusti.id/ipfs/:hash",
 	"https://siderus.io/ipfs/:hash",
 	"https://snap1.d.tube/ipfs/:hash",
